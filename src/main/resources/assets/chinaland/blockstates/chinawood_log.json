@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "chinaland:block/chinawood_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "chinaland:block/chinawood_log"
+    },
+    "axis=z": {
+      "model": "chinaland:block/chinawood_log_horizontal",
+      "x": 90
+    }
+  }
+}

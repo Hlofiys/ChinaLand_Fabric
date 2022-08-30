@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "chinaland:block/stripped_chinawood_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "chinaland:block/stripped_chinawood_wood"
+    },
+    "axis=z": {
+      "model": "chinaland:block/stripped_chinawood_wood",
+      "x": 90
+    }
+  }
+}

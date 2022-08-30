@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "chinaland:block/stripped_chinawood_log_top",
+    "side": "chinaland:block/stripped_chinawood_log"
+  }
+}

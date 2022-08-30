@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "chinaland:block/chinawood_leaves"
+  }
+}

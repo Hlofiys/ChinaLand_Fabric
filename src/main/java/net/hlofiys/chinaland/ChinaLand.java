@@ -1,6 +1,8 @@
 package net.hlofiys.chinaland;
 
 import net.fabricmc.api.ModInitializer;
+import net.hlofiys.chinaland.block.ModBlocks;
+import net.hlofiys.chinaland.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -10,6 +12,7 @@ public class ChinaLand implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+		ModItems.registerModItems();
+		ModBlocks.RegisterModBlocks();
 	}
 }
